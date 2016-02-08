@@ -2,7 +2,7 @@
 dismathportfolio-Kylepaggabao created by Classroom for GitHub
 
 #Week 1
-*I learned the basic concepts of dismath \n
+*I learned the basic concepts of dismath
 *I learned that a proposition is a statement that is either true or false.
 *I learned how to understand the Truth table of different Logical Connectives.
 *I learned new symbols like ∧ for conjunction, ∨ for disjunction, ⊕ for exclusive or, → for conditional and ↔ for biconditional.
